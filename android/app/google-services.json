@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697347373011",
+    "project_id": "san-francisco-hogar",
+    "storage_bucket": "san-francisco-hogar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697347373011:android:bf4f9c0f8a39dab57aa126",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697347373011-orh0d4dr1hfpsrc6oq7bq7fvbm9v8psg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcMPOaE_H05rlVqLFhW86x21avvwwAtIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697347373011-orh0d4dr1hfpsrc6oq7bq7fvbm9v8psg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
